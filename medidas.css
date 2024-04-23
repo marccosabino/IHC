@@ -1,0 +1,70 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1 {
+    margin: 45px 40px 10px 50px;
+    border-top: 5px solid #000;
+    border-right: 10px solid #000;
+    border-bottom: 8px solid #ccc;
+    border-left: 20px solid #ccc;
+    padding: 15px 30px 10px 40px;
+}
+.margem1 {
+    margin-top: 20px;
+    border: 5px solid #f00;
+}
+.margem2 {
+    margin-top: 100px;
+    border: 5px solid #f00;
+}
+.margem3 {
+    margin-top: 200px;
+    border: 5px solid #f00;
+}
+.margem4 {
+    margin-top: 10px;
+    border: 5px solid #f00;
+}
+.margem5 {
+    margin-top: 120px;
+    border: 5px solid #f00;
+}
+
+
+/*Elementos in-line*/
+.elemento1 {
+    width: 280px;
+    border: 5px solid #000;
+}
+.elemento2 {
+    width: 250px;
+    border: 5px solid #000;
+}
+.elemento3 {
+    width: 200px;
+    border: 5px solid #000;
+}
+.elemento4 {
+    width: 100px;
+    border: 5px solid #000;
+}
+
+
+/*Position Relative*/
+div {
+    border: 2px solid #f00;
+    font-size: 20px;
+    width: 260px;
+    height: 65px;
+    margin: 15px;
+    }
+div.um {
+    background: #cff;
+    }
+div.dois {
+    background: #6f9;
+    position: relative;
+    left: 60px;
+    top: 25px;
+    }
