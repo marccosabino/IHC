@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+h1 {
+    font-size: 36px;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: space-between;
+    padding: 20px;
+}
